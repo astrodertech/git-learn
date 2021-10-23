@@ -3,5 +3,5 @@ exports.greet = () => {
 }
 
 exports.introduce = () => {
-  console.log('My name is Rick !!!');
+  console.log('My name is Jane Doe !!!');
 }
