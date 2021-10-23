@@ -1,0 +1,24 @@
+{
+  "name": "git-learn",
+  "version": "1.0.0",
+  "description": "Learn git by node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astrodertech/git-learn.git"
+  },
+  "keywords": [
+    "git",
+    "learn",
+    "node"
+  ],
+  "author": "Rick Chen <xtforgame@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astrodertech/git-learn/issues"
+  },
+  "homepage": "https://github.com/astrodertech/git-learn#readme"
+}
