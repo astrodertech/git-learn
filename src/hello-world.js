@@ -1,10 +1,10 @@
 exports.greet = () => {
-  console.log('Yo !!!');
+  console.log('Hello ??');
 }
 
 exports.run = () => {
 }
 
 exports.introduce = () => {
-  console.log('My name is Rick !!!');
+  console.log('My name is Jone Doe !!!');
 }
