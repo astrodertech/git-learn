@@ -1,5 +1,5 @@
 exports.greet = () => {
-  console.log('Hi !!!');
+  console.log('Hello !!!');
 }
 
 exports.introduce = () => {
